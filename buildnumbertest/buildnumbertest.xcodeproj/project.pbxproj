@@ -298,6 +298,7 @@
 				A50A87201BF7CAFF0064B8B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
